@@ -1,0 +1,1 @@
+Results for Claude 3 Opus on the secret goals evaluation presented in https://www.lesswrong.com/posts/mYM9EAAhpbYDDmA3e/what-secret-goals-does-claude-think-it-has, using the code from https://github.com/syvb/secret-goals.
